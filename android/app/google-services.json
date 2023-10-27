@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487620366748",
+    "project_id": "tshirt-7a083",
+    "storage_bucket": "tshirt-7a083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487620366748:android:24d40c2fbdd0999ec8b859",
+        "android_client_info": {
+          "package_name": "com.example.sale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0WMmACfLwa3iUiPGsTUeVPS1JzGsozs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
